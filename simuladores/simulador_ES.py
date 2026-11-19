@@ -3,7 +3,7 @@
 SIMULADOR DE ENTRADA E SAÍDA (E/S)
 ==================================
 Disciplina: FSO204 - Sistemas Operacionais (UTFPR Francisco Beltrão)
-Autores: [Nome do Integrante 1] e [Nome do Integrante 2]
+Autores: [Gabriel Portes Gomes] e [Luiz Henrique Correia Serpa]
 
 Objetivo:
   Comparar o gasto de ciclos da CPU ao transferir um arquivo de N blocos
